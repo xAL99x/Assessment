@@ -1,0 +1,15 @@
+body{
+    background-image: url('files:C:\Users\aupton\Pictures\waves.jpg') center center fixed
+
+    
+}
+.center {
+
+    margin-right: 50px;
+}
+
+img{
+
+
+    border-radius: 15%;
+}
